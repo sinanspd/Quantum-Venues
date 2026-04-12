@@ -21,5 +21,6 @@ Maintaining a list of CS focused Quantum Conferences (CS conferences with Quantu
 1. [Quantum Journal](https://quantum-journal.org/)
 2. [SISC Special Section on Quantum Computing](https://www.siam.org/publications/siam-news/articles/call-for-papers-sisc-special-section/)
 3. [PRX/PRA](https://journals.aps.org/prxquantum/) 
-4. [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems) 
+4. [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems)
+5. [TQE](https://tqe.ieee.org/)
 
