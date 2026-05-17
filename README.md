@@ -14,7 +14,8 @@ Maintaining a list of CS focused Quantum Conferences (CS conferences with Quantu
 2. Q-SE Workshop on Quantum Software Engineering
 3. [European Workshop on Quantum Computing for High-Performance Computing](https://www.euroqhpc.eu/) 
 4. [Foundations Of Reliable Classical-Quantum Engineering](https://sites.google.com/view/force2026/home)
-5. ~~WQS Workshop on Quantum Software~~
+5. [EuroHPC](https://www.euroqhpc.eu/)
+6. ~~WQS Workshop on Quantum Software~~
 
 ## Journals
 
@@ -23,4 +24,6 @@ Maintaining a list of CS focused Quantum Conferences (CS conferences with Quantu
 3. [PRX/PRA](https://journals.aps.org/prxquantum/) 
 4. [Future Generation Computer Systems](https://www.sciencedirect.com/journal/future-generation-computer-systems)
 5. [TQE](https://tqe.ieee.org/)
+6. [Quantum Science & Technology](https://iopscience.iop.org/journal/2058-9565)
+7. [PRX Quantum](https://journals.aps.org/prxquantum/) 
 
