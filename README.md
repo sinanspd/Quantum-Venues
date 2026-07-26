@@ -6,6 +6,7 @@ Maintaining a list of CS focused Quantum Conferences (CS conferences with Quantu
 1. [IEEE Quantum Week](https://qce.quantum.ieee.org/)
 2. [ASPLOS](https://www.asplos-conference.org/)
 3. [QIP](https://qipconference.org/)
+4. [QCNC](https://www.ieee-qcnc.org/)
    
 
 ## Workshops 
