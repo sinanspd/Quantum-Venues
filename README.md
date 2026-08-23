@@ -17,7 +17,8 @@ Maintaining a list of CS focused Quantum Conferences (CS conferences with Quantu
 4. [Foundations Of Reliable Classical-Quantum Engineering](https://sites.google.com/view/force2026/home)
 5. [EuroHPC](https://www.euroqhpc.eu/)
 6. [FORCE](https://sites.google.com/view/force2026/home)
-7. ~~WQS Workshop on Quantum Software~~
+7. [International Workshop on Quantum Software Engineering](https://conf.researchr.org/home/icse-2026/q-se-2026#Call-for-Papers)
+8. ~~WQS Workshop on Quantum Software~~
 
 ## Journals
 
