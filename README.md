@@ -7,6 +7,7 @@ Maintaining a list of CS focused Quantum Conferences (CS conferences with Quantu
 2. [ASPLOS](https://www.asplos-conference.org/)
 3. [QIP](https://qipconference.org/)
 4. [QCNC](https://www.ieee-qcnc.org/)
+5. [CCGRID](https://hpcclab.org/ccgrid27/) 
    
 
 ## Workshops 
