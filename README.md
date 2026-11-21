@@ -19,7 +19,8 @@ Maintaining a list of CS focused Quantum Conferences (CS conferences with Quantu
 5. [EuroHPC](https://www.euroqhpc.eu/)
 6. [FORCE](https://sites.google.com/view/force2026/home)
 7. [International Workshop on Quantum Software Engineering](https://conf.researchr.org/home/icse-2027/q-se-2027#Call-for-Papers)
-8. ~~WQS Workshop on Quantum Software~~
+8. [Qsys](https://clouds.cis.unimelb.edu.au/qsys2027/)
+9. ~~WQS Workshop on Quantum Software~~
 
 ## Journals
 
